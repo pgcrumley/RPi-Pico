@@ -1,0 +1,9 @@
+
+# Eclipse items
+.project
+.pydevproject
+
+# do not send out local boot.json or DEBUG files
+boot.json
+DEBUG
+
