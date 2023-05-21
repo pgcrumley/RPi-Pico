@@ -1,0 +1,11 @@
+{
+ "ssid": "<your wifi ssid>",
+ "key": "<your wifi password>",
+ "hostname":"pico-w-#",
+ "utc_time_offset": 0,
+ "rtc_set": true,
+ "debug": false,
+ "silent": false,
+ "start_delay_seconds": 2,
+ "flash_led": false
+}
